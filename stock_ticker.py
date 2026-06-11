@@ -15,31 +15,51 @@ def fetch_stock_data(symbol):
     price_url = f"https://finnhub.io/api/v1/quote?symbol={symbol}&token={API_KEY}"
     price_data = requests.get(price_url).json()
 
-    # Fetch logo
+    # Fetch company name and logo
     logo_url = f"https://finnhub.io/api/v1/stock/profile2?symbol={symbol}&token={API_KEY}"
     logo_data = requests.get(logo_url).json()
 
     return {
         "symbol": symbol,
+        "name": logo_data.get("name", symbol),
         "current_price": price_data["c"],
         "change": price_data["d"],
         "percentage_change": price_data["dp"],
         "logo": logo_data.get("logo", None)
     }
 
+def format_change(change, percentage_change):
+    if change >= 0:
+        arrow = "↑"
+        price_color = "green"
+        percent_color = "green"
+    else:
+        arrow = "↓"
+        price_color = "red"
+        percent_color = "red"
+
+    return f"({price_color}){arrow} {abs(change)} ({abs(percentage_change)}%)(/color)"
+
 def main():
     stock_data = []
+    formatted_output = []
+
     for company in COMPANIES:
         data = fetch_stock_data(company)
         stock_data.append(data)
-        print(f"{data['symbol']}: ${data['current_price']} (${data['change']}, {data['percentage_change']}%)")
-        if data["logo"]:
-            print(f"Logo: {data['logo']}")
 
-    # Save data to a JSON file in the repository
+        # Format the output line
+        change_str = format_change(data["change"], data["percentage_change"])
+        logo_str = f"[{data['logo']}]" if data["logo"] else ""
+        line = f"{logo_str} {data['name']} {data['current_price']} {change_str}"
+        formatted_output.append(line)
+
+        print(line)
+
+    # Save formatted data to a JSON file in the repository
     with open("stock_data.json", "w") as f:
         json.dump(stock_data, f, indent=2)
-    print("Stock data saved to stock_data.json")
+    print("\nStock data saved to stock_data.json")
 
 if __name__ == "__main__":
     main()
