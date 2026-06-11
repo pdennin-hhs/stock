@@ -1,13 +1,5 @@
 [
   {
-    "symbol": "VZ",
-    "name": "Verizon Communications Inc",
-    "current_price": 46.95,
-    "change": 1.17,
-    "percentage_change": 2.5557,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VZ.png"
-  },
-  {
     "symbol": "AAPL",
     "name": "Apple Inc",
     "current_price": 291.58,
@@ -16,11 +8,931 @@
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
   },
   {
+    "symbol": "ABBV",
+    "name": "ABBV",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ACN",
+    "name": "Accenture PLC",
+    "current_price": 170.5,
+    "change": -2.97,
+    "percentage_change": -1.7121,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ACN.png"
+  },
+  {
+    "symbol": "AMD",
+    "name": "AMD",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen Inc",
+    "current_price": 337.73,
+    "change": -6.835,
+    "percentage_change": -1.9837,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMGN.png"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc",
+    "current_price": 238,
+    "change": -6.19,
+    "percentage_change": -2.5349,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+  },
+  {
+    "symbol": "APP",
+    "name": "Applovin Corp",
+    "current_price": 492.98,
+    "change": -27.86,
+    "percentage_change": -5.3491,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/APP.png"
+  },
+  {
+    "symbol": "ARM",
+    "name": "Arm Holdings PLC",
+    "current_price": 307.43,
+    "change": -17.43,
+    "percentage_change": -5.3654,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950867383596.png"
+  },
+  {
+    "symbol": "ASML",
+    "name": "ASML Holding NV",
+    "current_price": 1734.19,
+    "change": -43.58,
+    "percentage_change": -2.4514,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ASML.AS.png"
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc",
+    "current_price": 372.1,
+    "change": -20.06,
+    "percentage_change": -5.1153,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+  },
+  {
+    "symbol": "AXON",
+    "name": "Axon Enterprise Inc",
+    "current_price": 447.59,
+    "change": -4.92,
+    "percentage_change": -1.0873,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AXON.png"
+  },
+  {
+    "symbol": "AXP",
+    "name": "American Express Co",
+    "current_price": 313.34,
+    "change": -5.04,
+    "percentage_change": -1.583,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AXP.png"
+  },
+  {
+    "symbol": "BA",
+    "name": "Boeing Co",
+    "current_price": 209,
+    "change": -5.51,
+    "percentage_change": -2.5686,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BA.png"
+  },
+  {
+    "symbol": "BKNG",
+    "name": "BKNG",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "BKR",
+    "name": "Baker Hughes Co",
+    "current_price": 63.02,
+    "change": -0.53,
+    "percentage_change": -0.834,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BKR.png"
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar Inc",
+    "current_price": 856.16,
+    "change": -58.54,
+    "percentage_change": -6.3999,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CAT.png"
+  },
+  {
+    "symbol": "CCEP",
+    "name": "Coca-Cola Europacific Partners PLC",
+    "current_price": 97.51,
+    "change": 0.64,
+    "percentage_change": 0.6607,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CCEP.png"
+  },
+  {
+    "symbol": "CDNS",
+    "name": "Cadence Design Systems Inc",
+    "current_price": 385.13,
+    "change": -5.77,
+    "percentage_change": -1.4761,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CDNS.png"
+  },
+  {
+    "symbol": "CEG",
+    "name": "CEG",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "CHTR",
+    "name": "Charter Communications Inc",
+    "current_price": 137.79,
+    "change": 2.42,
+    "percentage_change": 1.7877,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CHTR.png"
+  },
+  {
+    "symbol": "CMCSA",
+    "name": "Comcast Corp",
+    "current_price": 23.97,
+    "change": 0.12,
+    "percentage_change": 0.5031,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CMCSA.png"
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco Wholesale Corp",
+    "current_price": 983.37,
+    "change": 14.78,
+    "percentage_change": 1.5259,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COST.png"
+  },
+  {
+    "symbol": "CPRT",
+    "name": "Copart Inc",
+    "current_price": 31.36,
+    "change": 0.05,
+    "percentage_change": 0.1597,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CPRT.png"
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce Inc",
+    "current_price": 170.92,
+    "change": -4.43,
+    "percentage_change": -2.5264,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png"
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike Holdings Inc",
+    "current_price": 647.74,
+    "change": 2.81,
+    "percentage_change": 0.4357,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRWD.png"
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems Inc",
+    "current_price": 118.8,
+    "change": -1.56,
+    "percentage_change": -1.2961,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950800186156.png"
+  },
+  {
+    "symbol": "CSX",
+    "name": "CSX Corp",
+    "current_price": 46.41,
+    "change": -0.87,
+    "percentage_change": -1.8401,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CSX.png"
+  },
+  {
+    "symbol": "CTAS",
+    "name": "Cintas Corp",
+    "current_price": 180.4,
+    "change": 0.53,
+    "percentage_change": 0.2947,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CTAS.png"
+  },
+  {
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corp",
+    "current_price": 51.81,
+    "change": -1.13,
+    "percentage_change": -2.1345,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CTSH.png"
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron Corp",
+    "current_price": 189.8,
+    "change": 3.04,
+    "percentage_change": 1.6278,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CVX.png"
+  },
+  {
+    "symbol": "DASH",
+    "name": "DoorDash Inc",
+    "current_price": 151,
+    "change": -4.67,
+    "percentage_change": -2.9999,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DASH.png"
+  },
+  {
+    "symbol": "DDOG",
+    "name": "Datadog Inc (Pre-Reincorporation)",
+    "current_price": 227.63,
+    "change": 0.29,
+    "percentage_change": 0.1276,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DDOG.png"
+  },
+  {
+    "symbol": "DIS",
+    "name": "Walt Disney Co",
+    "current_price": 98.61,
+    "change": -0.72,
+    "percentage_change": -0.7249,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DIS.png"
+  },
+  {
+    "symbol": "DXCM",
+    "name": "Dexcom Inc",
+    "current_price": 74.77,
+    "change": -3.42,
+    "percentage_change": -4.374,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DXCM.png"
+  },
+  {
+    "symbol": "EA",
+    "name": "Electronic Arts Inc",
+    "current_price": 203.2,
+    "change": 0.72,
+    "percentage_change": 0.3556,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EA.png"
+  },
+  {
+    "symbol": "EXC",
+    "name": "Exelon Corp",
+    "current_price": 45.61,
+    "change": 0.28,
+    "percentage_change": 0.6177,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EXC.png"
+  },
+  {
+    "symbol": "FANG",
+    "name": "Diamondback Energy Inc",
+    "current_price": 196.55,
+    "change": 2.31,
+    "percentage_change": 1.1893,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FANG.png"
+  },
+  {
+    "symbol": "FAST",
+    "name": "Fastenal Co",
+    "current_price": 46.03,
+    "change": -0.55,
+    "percentage_change": -1.1808,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FAST.png"
+  },
+  {
+    "symbol": "FER",
+    "name": "Ferrovial SE",
+    "current_price": 64.3,
+    "change": -1.51,
+    "percentage_change": -2.2945,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950689333576.png"
+  },
+  {
+    "symbol": "FTNT",
+    "name": "Fortinet Inc",
+    "current_price": 138.88,
+    "change": 0.49,
+    "percentage_change": 0.3541,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FTNT.png"
+  },
+  {
+    "symbol": "GEHC",
+    "name": "GE Healthcare Technologies Inc",
+    "current_price": 63.76,
+    "change": -2.25,
+    "percentage_change": -3.4086,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950835041476.png"
+  },
+  {
+    "symbol": "GILD",
+    "name": "GILD",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc",
+    "current_price": 353.32,
+    "change": -8.97,
+    "percentage_change": -2.4759,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc",
+    "current_price": 356.38,
+    "change": -7.88,
+    "percentage_change": -2.1633,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
+  },
+  {
+    "symbol": "GS",
+    "name": "Goldman Sachs Group Inc",
+    "current_price": 1001.29,
+    "change": -30.72,
+    "percentage_change": -2.9767,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GS.png"
+  },
+  {
+    "symbol": "HD",
+    "name": "HD",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell International Inc",
+    "current_price": 205.88,
+    "change": -9.82,
+    "percentage_change": -4.5526,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942965692746.png"
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines Corp",
+    "current_price": 272.36,
+    "change": -5.13,
+    "percentage_change": -1.8487,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/IBM.png"
+  },
+  {
+    "symbol": "IDXX",
+    "name": "IDEXX Laboratories Inc",
+    "current_price": 556.94,
+    "change": -21.95,
+    "percentage_change": -3.7917,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/IDXX.png"
+  },
+  {
+    "symbol": "INSM",
+    "name": "Insmed Inc",
+    "current_price": 91.88,
+    "change": -7.16,
+    "percentage_change": -7.2294,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/INSM.png"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corp",
+    "current_price": 107.04,
+    "change": -0.88,
+    "percentage_change": -0.8154,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/INTC.png"
+  },
+  {
+    "symbol": "INTU",
+    "name": "Intuit Inc",
+    "current_price": 284.22,
+    "change": -9.56,
+    "percentage_change": -3.2541,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/INTU.png"
+  },
+  {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical Inc",
+    "current_price": 412.02,
+    "change": -14.59,
+    "percentage_change": -3.42,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ISRG.png"
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "current_price": 238.49,
+    "change": 1.49,
+    "percentage_change": 0.6287,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JNJ.png"
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "current_price": 309.14,
+    "change": -3.56,
+    "percentage_change": -1.1385,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JPM.png"
+  },
+  {
+    "symbol": "KDP",
+    "name": "Keurig Dr Pepper Inc",
+    "current_price": 31.7,
+    "change": 0.22,
+    "percentage_change": 0.6989,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KDP.png"
+  },
+  {
+    "symbol": "KHC",
+    "name": "KHC",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "KLAC",
+    "name": "KLA Corp",
+    "current_price": 2135.64,
+    "change": -3.73,
+    "percentage_change": -0.1744,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KLAC.png"
+  },
+  {
+    "symbol": "KO",
+    "name": "Coca-Cola Co",
+    "current_price": 83.59,
+    "change": 2.25,
+    "percentage_change": 2.7662,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KO.png"
+  },
+  {
+    "symbol": "LIN",
+    "name": "Linde PLC",
+    "current_price": 509.16,
+    "change": -6.43,
+    "percentage_change": -1.2471,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950838588696.png"
+  },
+  {
+    "symbol": "LITE",
+    "name": "LITE",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research Corp",
+    "current_price": 321.8,
+    "change": -5.36,
+    "percentage_change": -1.6383,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LRCX.png"
+  },
+  {
+    "symbol": "MAR",
+    "name": "Marriott International Inc",
+    "current_price": 386.23,
+    "change": -7.38,
+    "percentage_change": -1.875,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MAR.png"
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's Corp",
+    "current_price": 282.52,
+    "change": 0.27,
+    "percentage_change": 0.0957,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCD.png"
+  },
+  {
+    "symbol": "MCHP",
+    "name": "Microchip Technology Inc",
+    "current_price": 87.91,
+    "change": -3.56,
+    "percentage_change": -3.892,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCHP.png"
+  },
+  {
+    "symbol": "MDLZ",
+    "name": "Mondelez International Inc",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MDLZ.png"
+  },
+  {
+    "symbol": "MELI",
+    "name": "MercadoLibre Inc",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MELI.png"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png"
+  },
+  {
+    "symbol": "MMM",
+    "name": "MMM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MNST",
+    "name": "MNST",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MPWR",
+    "name": "MPWR",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MRK",
+    "name": "MRK",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MRVL",
+    "name": "MRVL",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
     "symbol": "MSFT",
-    "name": "Microsoft Corp",
-    "current_price": 397.36,
-    "change": -6.05,
-    "percentage_change": -1.4997,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png"
+    "name": "MSFT",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MSTR",
+    "name": "MSTR",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "MU",
+    "name": "MU",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "NFLX",
+    "name": "NFLX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "NKE",
+    "name": "NKE",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVDA",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "NXPI",
+    "name": "NXPI",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ODFL",
+    "name": "ODFL",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ORLY",
+    "name": "ORLY",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PANW",
+    "name": "PANW",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PAYX",
+    "name": "PAYX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PCAR",
+    "name": "PCAR",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PDD",
+    "name": "PDD",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PEP",
+    "name": "PEP",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PG",
+    "name": "PG",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PLTR",
+    "name": "PLTR",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PYPL",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "QCOM",
+    "name": "QCOM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "REGN",
+    "name": "REGN",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ROP",
+    "name": "ROP",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ROST",
+    "name": "ROST",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "SBUX",
+    "name": "SBUX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "SHOP",
+    "name": "SHOP",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "SHW",
+    "name": "SHW",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "SNDK",
+    "name": "SNDK",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "SNPS",
+    "name": "SNPS",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "STX",
+    "name": "STX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TMUS",
+    "name": "TMUS",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TRI",
+    "name": "TRI",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TRV",
+    "name": "TRV",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TSLA",
+    "name": "TSLA",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TTWO",
+    "name": "TTWO",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "TXN",
+    "name": "TXN",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "UNH",
+    "name": "UNH",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "V",
+    "name": "V",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "VRSK",
+    "name": "VRSK",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "VRTX",
+    "name": "VRTX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "VZ",
+    "name": "VZ",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "WBD",
+    "name": "WBD",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "WDAY",
+    "name": "WDAY",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "WDC",
+    "name": "WDC",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "WMT",
+    "name": "WMT",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "XEL",
+    "name": "XEL",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
+  },
+  {
+    "symbol": "ZS",
+    "name": "ZS",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   }
 ]
