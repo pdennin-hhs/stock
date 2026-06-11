@@ -8,7 +8,7 @@ if not API_KEY:
     raise ValueError("Finnhub API key not found in environment variables.")
 
 # List of stock symbols to track
-COMPANIES = ["VZ", "AAPL", "MSFT"]
+COMPANIES = ["AAPL","ABBV","ACN","AMD","AMGN","AMZN","APP","ARM","ASML","AVGO","AXON","AXP","BA","BKNG","BKR","CAT","CCEP","CDNS","CEG","CHTR","CMCSA","COST","CPRT","CRM","CRWD","CSCO","CSX","CTAS","CTSH","CVX","DASH","DDOG","DIS","DXCM","EA","EXC","FANG","FAST","FER","FTNT","GEHC","GILD","GOOG","GOOGL","GS","HD","HON","IBM","IDXX","INSM","INTC","INTU","ISRG","JNJ","JPM","KDP","KHC","KLAC","KO","LIN","LITE","LRCX","MAR","MCD","MCHP","MDLZ","MELI","META","MMM","MNST","MPWR","MRK","MRVL","MSFT","MSTR","MU","NFLX","NKE","NVDA","NXPI","ODFL","ORLY","PANW","PAYX","PCAR","PDD","PEP","PG","PLTR","PYPL","QCOM","REGN","ROP","ROST","SBUX","SHOP","SHW","SNDK","SNPS","STX","TMUS","TRI","TRV","TSLA","TTWO","TXN","UNH","V","VRSK","VRTX","VZ","WBD","WDAY","WDC","WMT","XEL","ZS"]
 
 def fetch_stock_data(symbol):
     # Fetch stock price
