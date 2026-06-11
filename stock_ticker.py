@@ -92,7 +92,7 @@ def main():
         formatted_output.append(line)
 
         print(line)
-        time.sleep(0.1)  # Avoid hitting API rate limits
+        time.sleep(2)  # Wait 2 seconds between each request
 
     # Save formatted data to a JSON file in the repository
     with open("stock_data.json", "w") as f:
