@@ -23,12 +23,12 @@ jobs:
       - name: Run stock ticker script
         run: python stock_ticker.py
         env:
-          API_KEY: ${{ secrets.FINNHUB_API_KEY }}  # Store your API key in GitHub Secrets
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}  # Uses the secret from GitHub
 
       - name: Commit and push updates
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add .
+          git add stock_data.json
           git commit -m "Update stock data $(date)"
           git push
