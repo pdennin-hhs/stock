@@ -281,11 +281,11 @@
   },
   {
     "symbol": "EXC",
-    "name": "EXC",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Exelon Corp",
+    "current_price": 45.51,
+    "change": -0.1,
+    "percentage_change": -0.2193,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EXC.png"
   },
   {
     "symbol": "FANG",
