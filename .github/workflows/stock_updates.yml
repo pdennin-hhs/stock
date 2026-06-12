@@ -23,12 +23,18 @@ jobs:
       - name: Run stock ticker script
         run: python stock_ticker.py
         env:
-          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}  # Uses the secret from GitHub
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+
+      - name: Check for changes in stock_data.json
+        id: verify_diff
+        run: |
+          git add stock_data.json
+          git diff --cached --quiet || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push updates
+        if: steps.verify_diff.outputs.changes == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add stock_data.json
           git commit -m "Update stock data $(date)"
           git push
