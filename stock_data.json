@@ -41,11 +41,11 @@
   },
   {
     "symbol": "AMZN",
-    "name": "Amazon.com Inc",
-    "current_price": 238.55,
-    "change": -2.96,
-    "percentage_change": -1.2256,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    "name": "AMZN",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "APP",
@@ -721,11 +721,11 @@
   },
   {
     "symbol": "QCOM",
-    "name": "Qualcomm Inc",
-    "current_price": 211.72,
-    "change": 8.76,
-    "percentage_change": 4.3161,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/QCOM.png"
+    "name": "QCOM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "REGN",
