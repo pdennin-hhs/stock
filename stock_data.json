@@ -321,11 +321,11 @@
   },
   {
     "symbol": "GEHC",
-    "name": "GE Healthcare Technologies Inc",
-    "current_price": 65.2,
-    "change": 0.69,
-    "percentage_change": 1.0696,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950835041476.png"
+    "name": "GEHC",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "GILD",
@@ -337,11 +337,11 @@
   },
   {
     "symbol": "GOOG",
-    "name": "Alphabet Inc",
-    "current_price": 358.18,
-    "change": 1.62,
-    "percentage_change": 0.4543,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
+    "name": "GOOG",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "GOOGL",
@@ -449,11 +449,11 @@
   },
   {
     "symbol": "KHC",
-    "name": "Kraft Heinz Co",
-    "current_price": 24.4,
-    "change": 0.18,
-    "percentage_change": 0.7432,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KHC.png"
+    "name": "KHC",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "KLAC",
@@ -513,11 +513,11 @@
   },
   {
     "symbol": "MCHP",
-    "name": "Microchip Technology Inc",
-    "current_price": 95.26,
-    "change": 2.32,
-    "percentage_change": 2.4962,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCHP.png"
+    "name": "MCHP",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "MDLZ",
