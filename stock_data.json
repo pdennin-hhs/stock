@@ -305,11 +305,11 @@
   },
   {
     "symbol": "FER",
-    "name": "Ferrovial SE",
-    "current_price": 67.26,
-    "change": -1.35,
-    "percentage_change": -1.9676,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950689333576.png"
+    "name": "FER",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "FTNT",
@@ -489,11 +489,11 @@
   },
   {
     "symbol": "LRCX",
-    "name": "Lam Research Corp",
-    "current_price": 391.26,
-    "change": -42.07,
-    "percentage_change": -9.7085,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LRCX.png"
+    "name": "LRCX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "MAR",
@@ -521,11 +521,11 @@
   },
   {
     "symbol": "MDLZ",
-    "name": "Mondelez International Inc",
-    "current_price": 59.35,
-    "change": 1.51,
-    "percentage_change": 2.6107,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MDLZ.png"
+    "name": "MDLZ",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "MELI",
@@ -545,11 +545,11 @@
   },
   {
     "symbol": "MMM",
-    "name": "3M Co",
-    "current_price": 159.96,
-    "change": -1.95,
-    "percentage_change": -1.2044,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MMM.png"
+    "name": "MMM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "MNST",
