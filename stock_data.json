@@ -1,27 +1,27 @@
 [
   {
     "symbol": "AAPL",
-    "name": "AAPL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Apple Inc",
+    "current_price": 308.63,
+    "change": 14.25,
+    "percentage_change": 4.8407,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
   },
   {
     "symbol": "ABBV",
-    "name": "ABBV",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "AbbVie Inc",
+    "current_price": 261.07,
+    "change": 10.01,
+    "percentage_change": 3.9871,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABBV.png"
   },
   {
     "symbol": "ACN",
-    "name": "ACN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Accenture PLC",
+    "current_price": 137.35,
+    "change": 6.22,
+    "percentage_change": 4.7434,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ACN.png"
   },
   {
     "symbol": "AMD",
