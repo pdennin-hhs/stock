@@ -153,75 +153,75 @@
   },
   {
     "symbol": "CHTR",
-    "name": "CHTR",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Charter Communications Inc",
+    "current_price": 137.2,
+    "change": -2.64,
+    "percentage_change": -1.8879,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CHTR.png"
   },
   {
     "symbol": "CMCSA",
-    "name": "CMCSA",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Comcast Corp",
+    "current_price": 23.79,
+    "change": 0.06,
+    "percentage_change": 0.2528,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CMCSA.png"
   },
   {
     "symbol": "COST",
-    "name": "COST",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Costco Wholesale Corp",
+    "current_price": 951.67,
+    "change": 27,
+    "percentage_change": 2.92,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COST.png"
   },
   {
     "symbol": "CPRT",
-    "name": "CPRT",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Copart Inc",
+    "current_price": 30.01,
+    "change": 1.22,
+    "percentage_change": 4.2376,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CPRT.png"
   },
   {
     "symbol": "CRM",
-    "name": "CRM",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Salesforce Inc",
+    "current_price": 166.11,
+    "change": 2.88,
+    "percentage_change": 1.7644,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png"
   },
   {
     "symbol": "CRWD",
-    "name": "CRWD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "CrowdStrike Holdings Inc",
+    "current_price": 193.98,
+    "change": 0.795,
+    "percentage_change": 0.4115,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRWD.png"
   },
   {
     "symbol": "CSCO",
-    "name": "CSCO",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Cisco Systems Inc",
+    "current_price": 112.69,
+    "change": -4.32,
+    "percentage_change": -3.692,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950800186156.png"
   },
   {
     "symbol": "CSX",
-    "name": "CSX",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "CSX Corp",
+    "current_price": 48.89,
+    "change": 0.56,
+    "percentage_change": 1.1587,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CSX.png"
   },
   {
     "symbol": "CTAS",
-    "name": "CTAS",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Cintas Corp",
+    "current_price": 181.37,
+    "change": 7.14,
+    "percentage_change": 4.098,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CTAS.png"
   },
   {
     "symbol": "CTSH",
