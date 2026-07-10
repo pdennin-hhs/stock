@@ -561,67 +561,67 @@
   },
   {
     "symbol": "MPWR",
-    "name": "MPWR",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Monolithic Power Systems Inc",
+    "current_price": 1374.13,
+    "change": 58.62,
+    "percentage_change": 4.4561,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MPWR.png"
   },
   {
     "symbol": "MRK",
-    "name": "MRK",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Merck & Co Inc",
+    "current_price": 125.07,
+    "change": -0.92,
+    "percentage_change": -0.7302,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRK.png"
   },
   {
     "symbol": "MRVL",
-    "name": "MRVL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Marvell Technology Inc",
+    "current_price": 243.27,
+    "change": 11.56,
+    "percentage_change": 4.989,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRVL.png"
   },
   {
     "symbol": "MSFT",
-    "name": "MSFT",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Microsoft Corp",
+    "current_price": 384.36,
+    "change": 1.02,
+    "percentage_change": 0.2661,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png"
   },
   {
     "symbol": "MSTR",
-    "name": "MSTR",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Strategy Inc",
+    "current_price": 93.89,
+    "change": 0.02,
+    "percentage_change": 0.0213,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSTR.png"
   },
   {
     "symbol": "MU",
-    "name": "MU",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Micron Technology Inc",
+    "current_price": 991.64,
+    "change": 42.84,
+    "percentage_change": 4.5152,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MU.png"
   },
   {
     "symbol": "NFLX",
-    "name": "NFLX",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Netflix Inc",
+    "current_price": 75.47,
+    "change": -0.12,
+    "percentage_change": -0.1588,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png"
   },
   {
     "symbol": "NKE",
-    "name": "NKE",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Nike Inc",
+    "current_price": 42.78,
+    "change": -0.11,
+    "percentage_change": -0.2565,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NKE.png"
   },
   {
     "symbol": "NVDA",
