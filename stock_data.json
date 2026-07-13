@@ -82,9 +82,9 @@
   {
     "symbol": "AXON",
     "name": "Axon Enterprise Inc",
-    "current_price": 547.00383,
-    "change": -18.79617,
-    "percentage_change": -3.3221,
+    "current_price": 547.03,
+    "change": -18.77,
+    "percentage_change": -3.3174,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AXON.png"
   },
   {
@@ -498,9 +498,9 @@
   {
     "symbol": "MAR",
     "name": "Marriott International Inc",
-    "current_price": 362.906,
-    "change": -13.204,
-    "percentage_change": -3.5107,
+    "current_price": 362.87,
+    "change": -13.24,
+    "percentage_change": -3.5202,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MAR.png"
   },
   {
@@ -602,9 +602,9 @@
   {
     "symbol": "MU",
     "name": "Micron Technology Inc",
-    "current_price": 936.177,
-    "change": -43.123,
-    "percentage_change": -4.4035,
+    "current_price": 937,
+    "change": -42.3,
+    "percentage_change": -4.3194,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MU.png"
   },
   {
@@ -626,9 +626,9 @@
   {
     "symbol": "NVDA",
     "name": "NVIDIA Corp",
-    "current_price": 203.5284,
-    "change": -7.4316,
-    "percentage_change": -3.5228,
+    "current_price": 203.53,
+    "change": -7.43,
+    "percentage_change": -3.522,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png"
   },
   {
@@ -650,9 +650,9 @@
   {
     "symbol": "ORLY",
     "name": "O'Reilly Automotive Inc",
-    "current_price": 87.294,
-    "change": 1.014,
-    "percentage_change": 1.1752,
+    "current_price": 87.28,
+    "change": 1,
+    "percentage_change": 1.159,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
   },
   {
@@ -706,9 +706,9 @@
   {
     "symbol": "PLTR",
     "name": "Palantir Technologies Inc",
-    "current_price": 130.054,
-    "change": 3.264,
-    "percentage_change": 2.5743,
+    "current_price": 130.04,
+    "change": 3.25,
+    "percentage_change": 2.5633,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PLTR.png"
   },
   {
@@ -802,9 +802,9 @@
   {
     "symbol": "TMUS",
     "name": "T-Mobile US Inc",
-    "current_price": 188.419,
-    "change": 0.809,
-    "percentage_change": 0.4312,
+    "current_price": 188.41,
+    "change": 0.8,
+    "percentage_change": 0.4264,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TMUS.png"
   },
   {
