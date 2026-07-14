@@ -922,17 +922,17 @@
   {
     "symbol": "XEL",
     "name": "Xcel Energy Inc",
-    "current_price": 80.48,
-    "change": 0.42,
-    "percentage_change": 0.5246,
+    "current_price": 80.5,
+    "change": 0.44,
+    "percentage_change": 0.5496,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/XEL.png"
   },
   {
     "symbol": "ZS",
     "name": "Zscaler Inc",
-    "current_price": 141.82,
-    "change": 2.55,
-    "percentage_change": 1.831,
+    "current_price": 141.85,
+    "change": 2.58,
+    "percentage_change": 1.8525,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ZS.png"
   }
 ]
