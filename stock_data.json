@@ -10,9 +10,9 @@
   {
     "symbol": "ABBV",
     "name": "AbbVie Inc",
-    "current_price": 244.21,
-    "change": -0.57,
-    "percentage_change": -0.2329,
+    "current_price": 244.11,
+    "change": -0.67,
+    "percentage_change": -0.2737,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABBV.png"
   },
   {
@@ -66,9 +66,9 @@
   {
     "symbol": "ASML",
     "name": "ASML Holding NV",
-    "current_price": 1816.636,
-    "change": 40.996,
-    "percentage_change": 2.3088,
+    "current_price": 1815.27,
+    "change": 39.63,
+    "percentage_change": 2.2319,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ASML.AS.png"
   },
   {
@@ -530,9 +530,9 @@
   {
     "symbol": "MELI",
     "name": "MercadoLibre Inc",
-    "current_price": 1842.5,
-    "change": -31.38,
-    "percentage_change": -1.6746,
+    "current_price": 1843.19,
+    "change": -30.69,
+    "percentage_change": -1.6378,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MELI.png"
   },
   {
@@ -610,9 +610,9 @@
   {
     "symbol": "NFLX",
     "name": "Netflix Inc",
-    "current_price": 73.67,
-    "change": 0.14,
-    "percentage_change": 0.1904,
+    "current_price": 73.68,
+    "change": 0.15,
+    "percentage_change": 0.204,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png"
   },
   {
@@ -666,9 +666,9 @@
   {
     "symbol": "PAYX",
     "name": "Paychex Inc",
-    "current_price": 109.98,
-    "change": 0.46,
-    "percentage_change": 0.42,
+    "current_price": 110,
+    "change": 0.48,
+    "percentage_change": 0.4383,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PAYX.png"
   },
   {
@@ -714,9 +714,9 @@
   {
     "symbol": "PYPL",
     "name": "PayPal Holdings Inc",
-    "current_price": 55.511,
-    "change": 8.141,
-    "percentage_change": 17.186,
+    "current_price": 55.52,
+    "change": 8.15,
+    "percentage_change": 17.205,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PYPL.png"
   },
   {
@@ -826,9 +826,9 @@
   {
     "symbol": "TSLA",
     "name": "Tesla Inc",
-    "current_price": 394.35,
-    "change": -1.83,
-    "percentage_change": -0.4619,
+    "current_price": 394.46,
+    "change": -1.72,
+    "percentage_change": -0.4341,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png"
   },
   {
@@ -890,9 +890,9 @@
   {
     "symbol": "WBD",
     "name": "Warner Bros Discovery Inc",
-    "current_price": 27.263,
-    "change": -0.217,
-    "percentage_change": -0.7897,
+    "current_price": 27.27,
+    "change": -0.21,
+    "percentage_change": -0.7642,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959073106.png"
   },
   {
