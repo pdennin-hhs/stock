@@ -1,59 +1,59 @@
 [
   {
     "symbol": "AAPL",
-    "name": "AAPL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Apple Inc",
+    "current_price": 327.5,
+    "change": 12.64,
+    "percentage_change": 4.0145,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
   },
   {
     "symbol": "ABBV",
-    "name": "ABBV",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "AbbVie Inc",
+    "current_price": 244.11,
+    "change": -0.67,
+    "percentage_change": -0.2737,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABBV.png"
   },
   {
     "symbol": "ACN",
-    "name": "ACN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Accenture PLC",
+    "current_price": 137.02,
+    "change": 2.46,
+    "percentage_change": 1.8282,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ACN.png"
   },
   {
     "symbol": "AMD",
-    "name": "AMD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Advanced Micro Devices Inc",
+    "current_price": 529.14,
+    "change": -18.99,
+    "percentage_change": -3.4645,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png"
   },
   {
     "symbol": "AMGN",
-    "name": "AMGN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Amgen Inc",
+    "current_price": 358.32,
+    "change": 3.07,
+    "percentage_change": 0.8642,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMGN.png"
   },
   {
     "symbol": "AMZN",
-    "name": "AMZN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Amazon.com Inc",
+    "current_price": 254.96,
+    "change": 7.47,
+    "percentage_change": 3.0183,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
   },
   {
     "symbol": "APP",
-    "name": "APP",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Applovin Corp",
+    "current_price": 452.73,
+    "change": 3.75,
+    "percentage_change": 0.8352,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/APP.png"
   },
   {
     "symbol": "ARM",
