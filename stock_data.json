@@ -10,9 +10,9 @@
   {
     "symbol": "ABBV",
     "name": "AbbVie Inc",
-    "current_price": 254.59,
-    "change": 0.2,
-    "percentage_change": 0.0786,
+    "current_price": 254.49,
+    "change": 0.1,
+    "percentage_change": 0.0393,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABBV.png"
   },
   {
@@ -42,9 +42,9 @@
   {
     "symbol": "AMZN",
     "name": "Amazon.com Inc",
-    "current_price": 247.266,
-    "change": -2.624,
-    "percentage_change": -1.0501,
+    "current_price": 247.23,
+    "change": -2.66,
+    "percentage_change": -1.0645,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
   },
   {
@@ -778,9 +778,9 @@
   {
     "symbol": "SNDK",
     "name": "Sandisk Corp",
-    "current_price": 1354.378,
-    "change": -56.702,
-    "percentage_change": -4.0183,
+    "current_price": 1354.82,
+    "change": -56.26,
+    "percentage_change": -3.987,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950906460416.png"
   },
   {
@@ -826,9 +826,9 @@
   {
     "symbol": "TSLA",
     "name": "Tesla Inc",
-    "current_price": 380.794,
-    "change": -10.266,
-    "percentage_change": -2.6252,
+    "current_price": 380.84,
+    "change": -10.22,
+    "percentage_change": -2.6134,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png"
   },
   {
