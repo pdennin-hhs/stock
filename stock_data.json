@@ -185,11 +185,11 @@
   },
   {
     "symbol": "CRM",
-    "name": "Salesforce Inc",
-    "current_price": 192.98,
-    "change": 1.99,
-    "percentage_change": 1.0419,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png"
+    "name": "CRM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "CRWD",
@@ -281,11 +281,11 @@
   },
   {
     "symbol": "EXC",
-    "name": "EXC",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Exelon Corp",
+    "current_price": 45.76,
+    "change": -0.08,
+    "percentage_change": -0.1745,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EXC.png"
   },
   {
     "symbol": "FANG",
