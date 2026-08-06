@@ -185,11 +185,11 @@
   },
   {
     "symbol": "CRM",
-    "name": "CRM",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Salesforce Inc",
+    "current_price": 192.98,
+    "change": 1.99,
+    "percentage_change": 1.0419,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png"
   },
   {
     "symbol": "CRWD",
