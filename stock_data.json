@@ -825,75 +825,75 @@
   },
   {
     "symbol": "TSLA",
-    "name": "TSLA",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Tesla Inc",
+    "current_price": 328.58,
+    "change": 9.05,
+    "percentage_change": 2.8323,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png"
   },
   {
     "symbol": "TTWO",
-    "name": "TTWO",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Take-Two Interactive Software Inc",
+    "current_price": 246.5,
+    "change": 14.03,
+    "percentage_change": 6.0352,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TTWO.png"
   },
   {
     "symbol": "TXN",
-    "name": "TXN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Texas Instruments Inc",
+    "current_price": 286.08,
+    "change": 7.68,
+    "percentage_change": 2.7586,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TXN.png"
   },
   {
     "symbol": "UNH",
-    "name": "UNH",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "UnitedHealth Group Inc",
+    "current_price": 407.08,
+    "change": 3.11,
+    "percentage_change": 0.7699,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/UNH.png"
   },
   {
     "symbol": "V",
-    "name": "V",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Visa Inc",
+    "current_price": 362.5,
+    "change": -7.97,
+    "percentage_change": -2.1513,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/V.png"
   },
   {
     "symbol": "VRSK",
-    "name": "VRSK",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Verisk Analytics Inc",
+    "current_price": 191.82,
+    "change": 2.07,
+    "percentage_change": 1.0909,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VRSK.png"
   },
   {
     "symbol": "VRTX",
-    "name": "VRTX",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Vertex Pharmaceuticals Inc",
+    "current_price": 496.07,
+    "change": 12.04,
+    "percentage_change": 2.4874,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VRTX.png"
   },
   {
     "symbol": "VZ",
-    "name": "VZ",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Verizon Communications Inc",
+    "current_price": 47.06,
+    "change": 0.07,
+    "percentage_change": 0.149,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VZ.png"
   },
   {
     "symbol": "WBD",
-    "name": "WBD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Warner Bros Discovery Inc",
+    "current_price": 26.78,
+    "change": 0.38,
+    "percentage_change": 1.4394,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959073106.png"
   },
   {
     "symbol": "WDAY",
