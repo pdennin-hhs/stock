@@ -321,59 +321,59 @@
   },
   {
     "symbol": "GEHC",
-    "name": "GEHC",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "GE Healthcare Technologies Inc",
+    "current_price": 73.79,
+    "change": 1.51,
+    "percentage_change": 2.0891,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950835041476.png"
   },
   {
     "symbol": "GILD",
-    "name": "GILD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Gilead Sciences, Inc",
+    "current_price": 138.14,
+    "change": 2.27,
+    "percentage_change": 1.6707,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GILD.png"
   },
   {
     "symbol": "GOOG",
-    "name": "GOOG",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Alphabet Inc",
+    "current_price": 343.94,
+    "change": 1.57,
+    "percentage_change": 0.4586,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
   },
   {
     "symbol": "GOOGL",
-    "name": "GOOGL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Alphabet Inc",
+    "current_price": 346.36,
+    "change": 2.82,
+    "percentage_change": 0.8209,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
   },
   {
     "symbol": "GS",
-    "name": "GS",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Goldman Sachs Group Inc",
+    "current_price": 1042.63,
+    "change": 5.42,
+    "percentage_change": 0.5226,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GS.png"
   },
   {
     "symbol": "HD",
-    "name": "HD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Home Depot Inc",
+    "current_price": 341.7,
+    "change": -1.73,
+    "percentage_change": -0.5037,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HD.png"
   },
   {
     "symbol": "HON",
-    "name": "HON",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Honeywell International Inc",
+    "current_price": 233.99,
+    "change": -1.35,
+    "percentage_change": -0.5736,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942965692746.png"
   },
   {
     "symbol": "IBM",
@@ -497,51 +497,51 @@
   },
   {
     "symbol": "MAR",
-    "name": "MAR",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Marriott International Inc",
+    "current_price": 352.53,
+    "change": -2.05,
+    "percentage_change": -0.5781,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MAR.png"
   },
   {
     "symbol": "MCD",
-    "name": "MCD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "McDonald's Corp",
+    "current_price": 272.25,
+    "change": -3.45,
+    "percentage_change": -1.2514,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCD.png"
   },
   {
     "symbol": "MCHP",
-    "name": "MCHP",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Microchip Technology Inc",
+    "current_price": 77.69,
+    "change": -1.75,
+    "percentage_change": -2.2029,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCHP.png"
   },
   {
     "symbol": "MDLZ",
-    "name": "MDLZ",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Mondelez International Inc",
+    "current_price": 63.53,
+    "change": 1.35,
+    "percentage_change": 2.1711,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MDLZ.png"
   },
   {
     "symbol": "MELI",
-    "name": "MELI",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "MercadoLibre Inc",
+    "current_price": 1828.25,
+    "change": -0.04,
+    "percentage_change": -0.0022,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MELI.png"
   },
   {
     "symbol": "META",
-    "name": "META",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Meta Platforms Inc",
+    "current_price": 594.97,
+    "change": 16.12,
+    "percentage_change": 2.7848,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png"
   },
   {
     "symbol": "MMM",
@@ -641,59 +641,59 @@
   },
   {
     "symbol": "ODFL",
-    "name": "ODFL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Old Dominion Freight Line Inc",
+    "current_price": 215.73,
+    "change": 3.18,
+    "percentage_change": 1.4961,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ODFL.png"
   },
   {
     "symbol": "ORLY",
-    "name": "ORLY",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "O'Reilly Automotive Inc",
+    "current_price": 92.58,
+    "change": 0.53,
+    "percentage_change": 0.5758,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
   },
   {
     "symbol": "PANW",
-    "name": "PANW",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Palo Alto Networks Inc",
+    "current_price": 396,
+    "change": 8.99,
+    "percentage_change": 2.3229,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PANW.png"
   },
   {
     "symbol": "PAYX",
-    "name": "PAYX",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Paychex Inc",
+    "current_price": 125.4,
+    "change": 5.03,
+    "percentage_change": 4.1788,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PAYX.png"
   },
   {
     "symbol": "PCAR",
-    "name": "PCAR",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Paccar Inc",
+    "current_price": 130.72,
+    "change": -0.34,
+    "percentage_change": -0.2594,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PCAR.png"
   },
   {
     "symbol": "PDD",
-    "name": "PDD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "PDD Holdings Inc",
+    "current_price": 84.17,
+    "change": -4.865,
+    "percentage_change": -5.4641,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PDD.png"
   },
   {
     "symbol": "PEP",
-    "name": "PEP",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "PepsiCo Inc",
+    "current_price": 140.62,
+    "change": 1.92,
+    "percentage_change": 1.3843,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PEP.png"
   },
   {
     "symbol": "PG",
