@@ -809,51 +809,51 @@
   },
   {
     "symbol": "TRI",
-    "name": "TRI",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Thomson Reuters Corp",
+    "current_price": 103.61,
+    "change": -2.46,
+    "percentage_change": -2.3192,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TRI.TO.png"
   },
   {
     "symbol": "TRV",
-    "name": "TRV",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Travelers Companies Inc",
+    "current_price": 370.36,
+    "change": 0.36,
+    "percentage_change": 0.0973,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TRV.png"
   },
   {
     "symbol": "TSLA",
-    "name": "TSLA",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Tesla Inc",
+    "current_price": 342.27,
+    "change": 2.31,
+    "percentage_change": 0.6795,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png"
   },
   {
     "symbol": "TTWO",
-    "name": "TTWO",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Take-Two Interactive Software Inc",
+    "current_price": 246.95,
+    "change": 5.04,
+    "percentage_change": 2.0834,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TTWO.png"
   },
   {
     "symbol": "TXN",
-    "name": "TXN",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Texas Instruments Inc",
+    "current_price": 279.58,
+    "change": 6.15,
+    "percentage_change": 2.2492,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TXN.png"
   },
   {
     "symbol": "UNH",
-    "name": "UNH",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "UnitedHealth Group Inc",
+    "current_price": 401.73,
+    "change": 2.67,
+    "percentage_change": 0.6691,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/UNH.png"
   },
   {
     "symbol": "V",
