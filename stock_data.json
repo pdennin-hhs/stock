@@ -609,43 +609,43 @@
   },
   {
     "symbol": "NFLX",
-    "name": "Netflix Inc",
-    "current_price": 78.16,
-    "change": -0.08,
-    "percentage_change": -0.1022,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png"
+    "name": "NFLX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "NKE",
-    "name": "Nike Inc",
-    "current_price": 40.73,
-    "change": -0.5,
-    "percentage_change": -1.2127,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NKE.png"
+    "name": "NKE",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "NVDA",
-    "name": "NVIDIA Corp",
-    "current_price": 225.16,
-    "change": -0.14,
-    "percentage_change": -0.0621,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959144056.png"
+    "name": "NVDA",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "NXPI",
-    "name": "NXP Semiconductors NV",
-    "current_price": 234.71,
-    "change": 2.8,
-    "percentage_change": 1.2074,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NXPI.png"
+    "name": "NXPI",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "ODFL",
-    "name": "Old Dominion Freight Line Inc",
-    "current_price": 210.97,
-    "change": -4.76,
-    "percentage_change": -2.2065,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ODFL.png"
+    "name": "ODFL",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "ORLY",
