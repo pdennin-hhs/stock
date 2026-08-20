@@ -609,51 +609,51 @@
   },
   {
     "symbol": "NFLX",
-    "name": "NFLX",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Netflix Inc",
+    "current_price": 80.22,
+    "change": 2.45,
+    "percentage_change": 3.1503,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png"
   },
   {
     "symbol": "NKE",
-    "name": "NKE",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Nike Inc",
+    "current_price": 41.05,
+    "change": 0.99,
+    "percentage_change": 2.4713,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NKE.png"
   },
   {
     "symbol": "NVDA",
-    "name": "NVDA",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "NVIDIA Corp",
+    "current_price": 217.56,
+    "change": -2.18,
+    "percentage_change": -0.9921,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959144056.png"
   },
   {
     "symbol": "NXPI",
-    "name": "NXPI",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "NXP Semiconductors NV",
+    "current_price": 226.02,
+    "change": -2.54,
+    "percentage_change": -1.1113,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NXPI.png"
   },
   {
     "symbol": "ODFL",
-    "name": "ODFL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Old Dominion Freight Line Inc",
+    "current_price": 205.08,
+    "change": -2.92,
+    "percentage_change": -1.4038,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ODFL.png"
   },
   {
     "symbol": "ORLY",
-    "name": "ORLY",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "O'Reilly Automotive Inc",
+    "current_price": 91.2,
+    "change": 0.44,
+    "percentage_change": 0.4848,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
   },
   {
     "symbol": "PANW",
