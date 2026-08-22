@@ -233,43 +233,43 @@
   },
   {
     "symbol": "CVX",
-    "name": "Chevron Corp",
-    "current_price": 205.27,
-    "change": -0.5,
-    "percentage_change": -0.243,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CVX.png"
+    "name": "CVX",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "DASH",
-    "name": "DoorDash Inc",
-    "current_price": 223.49,
-    "change": 1.13,
-    "percentage_change": 0.5082,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DASH.png"
+    "name": "DASH",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "DDOG",
-    "name": "Datadog Inc (Pre-Reincorporation)",
-    "current_price": 235.62,
-    "change": 3.07,
-    "percentage_change": 1.3201,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DDOG.png"
+    "name": "DDOG",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "DIS",
-    "name": "Walt Disney Co",
-    "current_price": 107.78,
-    "change": 0.46,
-    "percentage_change": 0.4286,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DIS.png"
+    "name": "DIS",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "DXCM",
-    "name": "Dexcom Inc",
-    "current_price": 92.34,
-    "change": 2.12,
-    "percentage_change": 2.3498,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DXCM.png"
+    "name": "DXCM",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "EA",
