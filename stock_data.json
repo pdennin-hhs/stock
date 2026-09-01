@@ -297,75 +297,75 @@
   },
   {
     "symbol": "FAST",
-    "name": "FAST",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Fastenal Co",
+    "current_price": 49.31,
+    "change": -0.47,
+    "percentage_change": -0.9442,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FAST.png"
   },
   {
     "symbol": "FER",
-    "name": "FER",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Ferrovial SE",
+    "current_price": 58.55,
+    "change": -0.18,
+    "percentage_change": -0.3065,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950689333576.png"
   },
   {
     "symbol": "FTNT",
-    "name": "FTNT",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Fortinet Inc",
+    "current_price": 170.93,
+    "change": 4.93,
+    "percentage_change": 2.9699,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FTNT.png"
   },
   {
     "symbol": "GEHC",
-    "name": "GEHC",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "GE Healthcare Technologies Inc",
+    "current_price": 71.23,
+    "change": -0.495,
+    "percentage_change": -0.6901,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950835041476.png"
   },
   {
     "symbol": "GILD",
-    "name": "GILD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Gilead Sciences, Inc",
+    "current_price": 146.34,
+    "change": 0.66,
+    "percentage_change": 0.453,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GILD.png"
   },
   {
     "symbol": "GOOG",
-    "name": "GOOG",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Alphabet Inc",
+    "current_price": 335.41,
+    "change": -7.47,
+    "percentage_change": -2.1786,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
   },
   {
     "symbol": "GOOGL",
-    "name": "GOOGL",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Alphabet Inc",
+    "current_price": 339.35,
+    "change": -7.24,
+    "percentage_change": -2.0889,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
   },
   {
     "symbol": "GS",
-    "name": "GS",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Goldman Sachs Group Inc",
+    "current_price": 1025.9,
+    "change": -8.09,
+    "percentage_change": -0.7824,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GS.png"
   },
   {
     "symbol": "HD",
-    "name": "HD",
-    "current_price": "N/A",
-    "change": 0,
-    "percentage_change": 0,
-    "logo": null
+    "name": "Home Depot Inc",
+    "current_price": 327.83,
+    "change": -2.36,
+    "percentage_change": -0.7147,
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HD.png"
   },
   {
     "symbol": "HON",
