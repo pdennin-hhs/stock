@@ -89,11 +89,11 @@
   },
   {
     "symbol": "AXP",
-    "name": "American Express Co",
-    "current_price": 329.98,
-    "change": 5.79,
-    "percentage_change": 1.786,
-    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AXP.png"
+    "name": "AXP",
+    "current_price": "N/A",
+    "change": 0,
+    "percentage_change": 0,
+    "logo": null
   },
   {
     "symbol": "BA",
