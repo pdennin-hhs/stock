@@ -82,22 +82,25 @@ def main():
     formatted_output = []
 
     for company in COMPANIES:
-        data = fetch_stock_data(company)
-        stock_data.append(data)
-
-        # Format the output line
-        change_str = format_change(data["change"], data["percentage_change"])
-        logo_str = f"[{data['logo']}]" if data["logo"] else f"[{data['symbol']}]"
-        line = f"{logo_str} {data['name']} {data['current_price']} {change_str}"
-        formatted_output.append(line)
-
-        print(line)
-        time.sleep(2)  # Wait 2 seconds between each request
-
-    # Save formatted data to a JSON file in the repository
-    with open("stock_data.json", "w") as f:
-        json.dump(stock_data, f, indent=2)
-    print("\nStock data saved to stock_data.json")
+            try:
+            data = fetch_stock_data(company)
+            stock_data.append(data)
+    
+            # Format the output line
+            change_str = format_change(data["change"], data["percentage_change"])
+            logo_str = f"[{data['logo']}]" if data["logo"] else f"[{data['symbol']}]"
+            line = f"{logo_str} {data['name']} {data['current_price']} {change_str}"
+            formatted_output.append(line)
+    
+            print(line)
+            time.sleep(2)  # Wait 2 seconds between each request
+    
+        # Save formatted data to a JSON file in the repository
+        with open("stock_data.json", "w") as f:
+            json.dump(stock_data, f, indent=2)
+        print("\nStock data saved to stock_data.json")
+    except:
+        print("Stock Retrieval Error")
 
 if __name__ == "__main__":
     main()
