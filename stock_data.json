@@ -890,9 +890,9 @@
   {
     "symbol": "WBD",
     "name": "Warner Bros. Discovery, Inc.",
-    "current_price": 30.95,
-    "change": 0.01,
-    "percentage_change": 0.0323,
+    "current_price": 0,
+    "change": null,
+    "percentage_change": null,
     "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959073106.png"
   },
   {
